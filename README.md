@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanButler53
-- 👀 I’m interested in Splay Trees
+- 👀 I’m interested in Splay Trees and other cool data structures
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on building and experimenting with Clash Royale simulations!
 - 📫 How to reach me ...
