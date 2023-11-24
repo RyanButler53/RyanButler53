@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RyanButler53
 - 👀 I’m interested in unusual and weird data structures
 - 🌱 I’m currently learning about Skip Lists
-- 💞️ I’m looking to collaborate on building and experimenting with Clash Royale simulations!
+- 💞️ I’m looking to collaborate on generating Total Serial style sheet music
 - 📫 How to reach me...
 
 <!---
