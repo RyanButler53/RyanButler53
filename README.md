@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanButler53
-- 👀 I’m interested in unusual and weird data structures
+- 👀 I’m interested in unusual or weird data structures and C++26 static reflection
 - 🌱 I’m currently learning Traffic Modeling
 - 💞️ I’m looking to collaborate on writing a front end for my Traffic Simulator. 
 - 📫 How to reach me...
